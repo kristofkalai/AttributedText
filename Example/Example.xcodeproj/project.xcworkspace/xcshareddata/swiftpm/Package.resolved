@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "attributedtext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/AttributedText",
+      "state" : {
+        "revision" : "fba322769eb8ef82160c83f46ae27650cc0a67c6",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
